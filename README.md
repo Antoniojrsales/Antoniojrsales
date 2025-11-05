@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/zhLmtgR9J3cQ1jJ6D2/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTQ3cGt5N2Fra2RoOXd4bGZxNW1taXF0NzR0cTU2NGtuZno4bWtlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" alt="Python Developer Welcome" width="600"/>
+  <img src="https://media.giphy.com/media/zhLmtgR9J3cQ1jJ6D2/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTQ3cGt5N2Fra2RoOXd4bGZxNW1taXF0NzR0cTU2NGtuZno4bWtlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Python Developer Welcome" width="600"/>
   
   # Olá! Eu sou o Antonio Gomes Sales Junior 👋
   
