@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/oqQQUgAC3PIv687tqPC/giphy.gif" alt="Python Developer Welcome" width="600"/>
+  <img src="https://media.giphy.com/media/oqQQUgAC3PIv687tqPC/giphy.gif" alt="Programador Trabalhando" width="600"/>
   
   # Olá! Eu sou o Antonio Gomes Sales Junior 👋
   
