@@ -36,7 +36,7 @@
 ### 📊 Estatísticas e Conexões
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antoniojrgsales&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antoniojrsales&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   
   <br>
   <a href="https://www.linkedin.com/in/antonio-gomes-31bb18137/">
