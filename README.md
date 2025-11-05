@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/gK9pZkH.png" alt="Olá, eu sou o Antonio!" width="600"/>
+  <img src="https://media.giphy.com/media/zhLmtgR9J3cQ1jJ6D2/giphy.gif" alt="Python Developer Welcome" width="600"/>
   
   # Olá! Eu sou o Antonio Gomes Sales Junior 👋
   
@@ -13,7 +13,7 @@
 ### 🚀 Sobre Mim & Foco Atual
 
 - **Função:** Python Developer | Data Analyst | Data Scientist em Formação.
-- **Objetivo:** Transformar dados em ações que resultam em redução de custos e aumento de eficiência.
+- **Objetivo:** Focado em desenvolver e analisar estrategicamente. Transformo dados brutos em ações que geram valor e impulsionam a inovação em tecnologia.
 - **Portfólio:** Confira meus projetos detalhados em [Meu Portfólio](https://antoniojrgsales.github.io/meu_portfolio/)
 - **Buscando Colaboração:** Tenho interesse em projetos de Machine Learning (Scikit-learn) e visualização de dados (Streamlit/Plotly).
 
