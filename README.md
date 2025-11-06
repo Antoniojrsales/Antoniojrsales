@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 Sobre Mim & Foco Atual
+### 🚀 Sobre & Foco Atual
 
 - **Função:** Python Developer | Data Analyst | Data Scientist em Formação.
 - **Objetivo:** Focado em desenvolver e analisar estrategicamente. Transformo dados brutos em ações que geram valor e impulsionam a inovação em tecnologia.
