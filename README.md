@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmkzYXVxOGNid2NuMGV2bDA2ZnM1c3JhN2M5ZHg2cWR5dDBhOGh5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" alt="Programador Trabalhando" width="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmkzYXVxOGNid2NuMGV2bDA2ZnM1c3JhN2M5ZHg2cWR5dDBhOGh5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" alt="Programador Trabalhando" width="200"/>
   
   # Olá! Eu sou o Antonio Gomes Sales Junior 👋
   
